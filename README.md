@@ -8,4 +8,4 @@ I created this repository to document everything I learn—from Python and DSA t
 
 I'm not trying to be perfect. I'm trying to improve a little every day.
 
-Hopefully, when I look back at this repository in 2027, I'll see how far I've come.
+Every commit in this repository represents one step toward becoming a skilled Software Test Engineer.
